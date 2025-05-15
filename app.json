@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Routineo",
-    "slug": "Routineo",
+    "slug": "routineo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -40,3 +40,7 @@
     }
   }
 }
+    "extra": {
+      "supabaseUrl": "https://<your-project-id>.supabase.co",
+      "supabaseAnonKey": "<YOUR_ANON_KEY>"
+    }
